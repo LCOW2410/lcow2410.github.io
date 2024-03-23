@@ -1,0 +1,42 @@
+.team {
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.team h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #432917;
+}
+
+.team article,
+.team aside {
+    margin-bottom: 30px;
+}
+
+.team h2 {
+    color: #432917;
+    margin-bottom: 10px;
+}
+
+.team p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+.team figure {
+    margin-bottom: 20px;
+}
+
+.team figure img {
+    width: 100%;
+    max-width: 420px;
+    border-radius: 8px;
+}
+
+.team figcaption {
+    margin-top: 1px;
+    font-size: 15px;
+    color: #432917;
+}
