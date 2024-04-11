@@ -11,7 +11,7 @@ body {
 
 
 .box{
-    background-color: #75533a;
+    background-color: #96623f;
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -42,6 +42,7 @@ h3{
 img{
     max-width: 100%;
     border-radius: 20px;
+    align-items: center;
 }
 
 .navbar a:hover,
@@ -94,3 +95,8 @@ footer {
     font-size: 0.8em;
     margin-top: 20px;
 }
+
+.left{
+    text-align: left;
+}
+

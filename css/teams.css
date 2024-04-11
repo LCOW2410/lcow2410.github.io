@@ -9,6 +9,22 @@
     color: #432917;
 }
 
+.image-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+    width: auto;
+    background-color: #96623f;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
 .team article,
 .team aside {
     margin-bottom: 30px;
@@ -35,8 +51,13 @@
     border-radius: 8px;
 }
 
+.center{
+    text-align: center;
+}
+
 .team figcaption {
-    margin-top: 1px;
     font-size: 15px;
+    position: relative;
     color: #432917;
+    text-align: center;
 }

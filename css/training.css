@@ -27,6 +27,7 @@
 .training-table td {
     padding: 10px;
     border: 3px solid #432917;
+    transition: background-color 0.3s ease;
 }
 
 .training-table th {
@@ -44,7 +45,7 @@
 }
 
 .training-table tbody tr:hover {
-    background-color: #a66a3f;
+    background-color: #ecab7d;
 }
 
 .training-table td:first-child img {
