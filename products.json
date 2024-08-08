@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Air Jordan 1 Retro", "image": "https://jdsports.ca/cdn/shop/files/DZ5485-160_jordan_1_retro_high_og_remastered_white_team_red_4_671x.jpg?v=1712118214", "price": 240 },
+    { "id": 2, "name": "Nike Air Max 270", "image": "https://images.footlocker.com/is/image/EBFL2/4205645_a1?wid=504&hei=504&fmt=png-alpha", "price": 220 },
+    { "id": 3, "name": "Adidas Ultraboost 21", "image": "https://ernies.ca/cdn/shop/products/Ultraboost_21_Shoes_Black_FY0378_01_standard_3a359da8-d3a0-4496-9045-1b2d1e144cfa.jpg?v=1623270434", "price": 200 },
+    { "id": 4, "name": "Puma RS-X", "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_450,h_450/global/369579/01/sv01/fnd/PNA/fmt/png", "price": 110 },
+    { "id": 5, "name": "Reebok Leather", "image": "https://reebok.ca/cdn/shop/files/100008494B0032.jpg?v=1717809751", "price": 90 },
+    { "id": 6, "name": "Converse Taylor", "image": "https://converse.ca/media/catalog/product/cache/f9d46213ae1d882c35b397bec3e31308/m/9/m9160_a_107x1_2nd.jpg", "price": 75 },
+    { "id": 7, "name": "New Balance 574", "image": "https://nb.scene7.com/is/image/NB/ml574evg_nb_02_i?$pdpflexf2$", "price": 120 },
+    { "id": 8, "name": "Vans Old Skool", "image": "https://images.footlocker.com/is/image/EBFL2/W9T6BT_a1?wid=504&hei=504&fmt=png-alpha", "price": 90 },
+    { "id": 9, "name": "UA HOVR Phantom", "image": "https://underarmour.scene7.com/is/image/Underarmour/3022587-101_DEFAULT?wid=1080&hei=1080&fmt=jpg", "price": 140 },
+    { "id": 10, "name": "Asics Gel-Kayano 27", "image": "https://i5.walmartimages.com/asr/77deb4cb-6f84-4623-b90b-830eb40925fc.2fec31cbe7f0a3f9b6df9572a5858e00.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "price": 160 }
+]
